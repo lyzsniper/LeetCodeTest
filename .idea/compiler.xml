@@ -11,7 +11,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="com.lyz.top" target="1.8" />
       <module name="top150" target="1.8" />
     </bytecodeTargetLevel>
   </component>

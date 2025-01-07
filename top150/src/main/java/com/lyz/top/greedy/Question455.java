@@ -1,4 +1,4 @@
-package com.lyz.top;
+package com.lyz.top.greedy;
 
 import java.util.Arrays;
 
